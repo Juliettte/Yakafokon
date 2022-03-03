@@ -17,3 +17,4 @@ Mais en plus ça joue sur d'autres plans :
 * activité sportive : santé améliorée
 * risques d'accident : santé diminuée
 * pas de pollution associée au déplacement : santé améliorée
+* peu onéreux 
